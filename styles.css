@@ -1,0 +1,8 @@
+.card-img-top {
+    height: 200px; /* Set a fixed height */
+    object-fit: cover; /* Ensures images maintain proportions */
+    width: 100%; /* Ensures full width */
+}
+.card-body {
+    min-height: 150px; /* Ensures consistent height for card content */
+}
